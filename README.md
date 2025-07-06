@@ -7,6 +7,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [Frontend Mentor - Social links profile solution](#frontend-mentor---social-links-profile-solution)
   - [Table of contents](#table-of-contents)
     - [The challenge](#the-challenge)
+      - [What to do:](#what-to-do)
     - [Screenshot](#screenshot)
     - [Links](#links)
     - [Built with](#built-with)
@@ -18,9 +19,15 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
+#### What to do:
+ - [] Personalize the project to add your own information, links, and color palette.
+ - [] Focus on writing semantic HTML and using the correct elements based on the content.
+ - [] Ensure visitors can navigate the links only using their keyboard.
+ - [] Train your eye for detail by getting your solution to look similar to the design.
+
 ### Screenshot
 
-![](./screenshot.jpg)
+![Solution screenshot](./assets/screenshot.png)
 
 
 ### Links
